@@ -22,7 +22,7 @@ public class CourtBooker {
 			 "bcsynp.php?a=27|600|80|9|"
 	 };
 	 public CourtBooker (String url) throws Exception {
-	  bUrl = url;
+	  bUrl = url; 
 	 }
 	 
 	 public void book () throws Exception {
